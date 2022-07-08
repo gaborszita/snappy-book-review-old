@@ -1,5 +1,10 @@
 # Snappy Book Review
 
+NOTE: This project is not maintained anymore, please use its
+[new version](https://github.com/gaborszita/snappy-book-review).
+It's using the Node.js and ExpressJS as its backand and MongoDB as its
+database.
+
 An open-source book review website. Check it out on [snappybookreview.gaborszita.net](https://snappybookreview.gaborszita.net/).
 
 Website setup:
